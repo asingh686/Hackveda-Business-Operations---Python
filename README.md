@@ -14,6 +14,19 @@ This system automates two key operations:
 2. **Sending personalized emails** to those leads using Gmail’s secure SMTP.
 
 ---
+## 📜 Requirements
+
+This project uses both external and built-in Python libraries:
+
+### 🔹 Install via pip:
+- `googlesearch-python` – to fetch search results from Google
+- `pandas` – to create and manage the leads CSV
+
+Install with:
+```bash
+pip install googlesearch-python pandas
+
+```
 
 ## 🚀 Features
 
@@ -100,6 +113,7 @@ Generate an App Password for “Mail” + “Windows Computer”
 ## 🏁 License
 
 This project is licensed under the MIT License.
+
 You are free to use, modify, and distribute it with attribution.
 
 
