@@ -1,7 +1,2 @@
-googlesearch
+googlesearch-python
 pandas
-smtplib
-ssl
-email.message
-getpass
-gmail app password(2 factor authection password given by gmail, don't use your actual gmail password)
