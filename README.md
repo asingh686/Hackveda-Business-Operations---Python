@@ -1,6 +1,6 @@
-# 🤖 Hackveda Business Operations Automation – Python Project
+# 🤖 Sales Data Analysis – Python Project
 
-This project was developed during my internship at **Hackveda** to automate lead generation and Email outreach for Digital Marketing using Python.  
+This project was developed  to automate lead generation and Email outreach for Digital Marketing using Python.  
 It combines a Google search crawler with an email notification system — streamlining repetitive digital marketing tasks.
 
 ---
