@@ -1,4 +1,4 @@
-# 🤖 Sales Data Analysis – Python Project
+# 🤖 Lead Generation & Email Automation – Python Project
 
 This project was developed  to automate lead generation and Email outreach for Digital Marketing using Python.  
 It combines a Google search crawler with an email notification system — streamlining repetitive digital marketing tasks.
